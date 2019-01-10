@@ -1,0 +1,27 @@
+.profileimg{
+ float:left;
+ }
+ 
+ .profileinfo{
+ margin-left: 200px;
+ font-family:"Comic Sans MS";
+ }
+ 
+ a{
+ text-decoration:none;
+  }
+
+ a:link {color:black;}
+ a:visited {color:black;}
+ a:hover {color:blue;}
+
+.contact{
+font-family:"Comic Sans MS";
+float:left;
+}
+
+.form{
+margin-top:25px;
+margin-left:450px;
+font-family:"Comic Sans MS";
+}

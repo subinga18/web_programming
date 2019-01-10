@@ -1,0 +1,36 @@
+ .profileimg{
+ float:left;
+ }
+ .profileinfo{
+ margin-left: 200px;
+ font-family:"Comic Sans MS";
+ }
+
+ a{
+	text-decoration:none;
+	}
+
+	a:link {color:black;}
+	a:visited {color:black;}
+	a:hover {color:blue;}
+ }
+ 
+ a{
+ text-decoration:none;
+ }
+
+	a:link {color:black;}
+	a:visited {color:black;}
+	a:hover {color:blue;}
+	li{
+	font-family:arial;
+	}
+.profile{
+float:left;
+}
+.subin{
+ margin-left:200px;
+ font-family:"Comic Sans MS";
+ }
+
+	
